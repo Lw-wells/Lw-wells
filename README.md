@@ -43,11 +43,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lw-wells&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lw-wells&theme=tokyonight" alt="GitHub Streak" />
+  <!-- GitHub Contribution Stats -->
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lw-wells&show_icons=true&theme=tokyonight)
+  <br>
+  <!-- Contribution Streak -->
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lw-wells&theme=tokyonight)
+  <br>
+  <!-- Top Languages Card -->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lw-wells&layout=compact&theme=tokyonight)
 </p>
-
 ---
 
 ### 📫 Connect With Me
