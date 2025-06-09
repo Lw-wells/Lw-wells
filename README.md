@@ -44,20 +44,15 @@
 
 <p align="center">
   <!-- GitHub Contribution Stats -->
-  ![GitHub stats](<img src="https://github-readme-stats.vercel.app/api?username=Lw-wells&show_icons=true&theme=tokyonight">)
+  <img src="https://github-readme-stats.vercel.app/api?username=Lw-wells&show_icons=true&theme=tokyonight">
   <br>
   <!-- Contribution Streak -->
-  ![GitHub Streak](<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lw-wells&theme=tokyonight">)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lw-wells&theme=tokyonight">
   <br>
   <!-- Top Languages Card -->
-  ![Top Langs](<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lw-wells&layout=compact&theme=tokyonight">)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lw-wells&layout=compact&theme=tokyonight">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
-</p>
 ---
 
 ### 📫 Connect With Me
